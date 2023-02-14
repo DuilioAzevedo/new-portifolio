@@ -1,0 +1,21 @@
+* {
+box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(to top right,  #43389F , #4ec6ca );
+}
+
+.foto-perfil{
+    border-radius: 50%;
+}
