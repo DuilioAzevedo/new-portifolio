@@ -357,7 +357,7 @@
     margin-bottom: 0.5rem;
     font-weight: 500;
     line-height: 1.2;
-    color: #343a40;
+    color: #ffffff;
   }
   
   h1, .h1 {
@@ -7611,6 +7611,7 @@
   
   .mb-1,
   .my-1 {
+    color: var(--indigo) ;
     margin-bottom: 0.25rem !important;
   }
   
@@ -7683,6 +7684,7 @@
   
   .mb-4,
   .my-4 {
+    color: #ffffff;
     margin-bottom: 1.5rem !important;
   }
   
